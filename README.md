@@ -39,6 +39,8 @@ This data I obtained after processing the wav files needed some processing at:
 
 After processing the data I analyzed each feature distribution against the target variable gender, checking if it presented different distributions depending on male or female.
 
+Correlation matrix is used to remove higly correlated features (>98%).
+
 The dataset unbalanced respect to the target variable(82% male,18% female) so different techniques were proposed:
 
 * SMOTE, ADASYN
