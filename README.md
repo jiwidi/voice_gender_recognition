@@ -14,7 +14,7 @@ The data consisted in a series of .wav files along some logs from their extracti
 * dataset.py, Script where tgz and wavs files are explored along some extra features from the logs. This file creates a csv file containing the path for every wav file along the extra features from each of them.
 * scriptR.R Parallelized R script where the warbleR library for audio processing extracts a series of audio signal features with added to the previous csv file creates the final dataset.
 
-Here I show a brief explanation of my submission, based on the jupyter notebook.
+Here I show a brief explanation of my submission (at the jupyter notebook).
 
 
 ## Technologies used for this project:
