@@ -8,9 +8,13 @@ This project is my submission for the Sandvik CODE assigment.
 
 The goal is to predict a person gender by analyzing digital samples of its voice. 
 
-The data consisted in a series of .wav files along some logs from their extraction, I had to extract audio features from the wavs and other demographic features from the logs such as age,dialect and the target gender. All the processing is under the /utils/ folder.
+The data consisted in a series of .wav files along some logs from their extraction, I had to extract audio features from the wavs and other demographic features from the logs such as age,dialect and the target gender. All the extracting and audio processing is under the /utils/ folder at the following files:
 
-Here I show a brief explanation of our submission, based on the jupyter notebook.
+* scraper.py, simple script to find and download all the tgz files from the provided url.
+* dataset.py, Script where tgz and wavs files are explored along some extra features from the logs. This file creates a csv file containing the path for every wav file along the extra features from each of them.
+* scriptR.R Parallelized R script where the warbleR library for audio processing extracts a series of audio signal features with added to the previous csv file creates the final dataset.
+
+Here I show a brief explanation of my submission, based on the jupyter notebook.
 
 
 ## Technologies used for this project:
