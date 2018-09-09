@@ -89,4 +89,12 @@ Now that I have finished the assgiment I want to list the most important things 
 * Spend time with data preprocessing, it is what usually makes the difference, as nowadays models are being easier to implement
 * Distinguish between model selection and model optimization
 
+Overall the project has been quite fun and dealing with audio files was my first time. A good solution has been presented but a lot of improvements could be done :). Thinking about possible uses cases where we could use this models:
+
+* Identify an user gender when using a voice service to boost it's user experience.
+
+* Help with other prediction models, ex: identifiying a full profile from a person samples (age, position) where this model could take care of the gender variable.
+
+* Classify samples of voicemessages from support center, giving Sandvik an extra variable to analyze the market.
+
 Thanks to Sandvik CODE and Lukasz Tracewski for presenting us the assigment.
