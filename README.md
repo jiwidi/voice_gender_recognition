@@ -78,7 +78,7 @@ To solve this problem I used Bayesian Optimization (Bayes-opt package in python)
 
 ### Final model
 
-Our best model was XGboost with 0.891% accuracy along DNN at 0.85% and SVM at 0.82%.
+Our best model was XGboost with 0.891% accuracy along DNN at 0.87% and SVM at 0.82%.
 
 
 ## Conclusion
