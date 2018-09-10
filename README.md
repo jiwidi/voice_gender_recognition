@@ -1,6 +1,6 @@
 # Gender recognition from voice files
 
-Run in online at https://hub.mybinder.org/user/jiwidi-voice_gender_recognition-bxja2kyq/tree (thx binder https://mybinder.org/, cool tech)
+Run in online at https://mybinder.org/v2/gh/jiwidi/voice_gender_recognition/master (thx binder https://mybinder.org/, cool tech)
 
 ## Jaime Ferrando submission to Lukasz Tracewski from Sandvik CODE assignment
 
